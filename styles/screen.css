@@ -54,3 +54,9 @@ img.about {
     grid-template-columns: 200px 200px 200px 200px;
     background: rgba(red, green, blue, alpha)
 }
+
+.planet-box {
+    background-color: #EAE8FF;
+    padding: 20px;
+
+}
