@@ -49,8 +49,3 @@ img.about {
     opacity: 0.5;
 }
 
-
-  main {
-    display: grid;
-    grid-template-columns: 200px 200px 200px 200px;
-  }
