@@ -52,13 +52,11 @@ img.about {
 
 .grid-container { 
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
    color: #2D3142;
 }
 
 .planet-box {
-    background-color: #EAE8FF;
-    padding: 20px;
-    
+    background: rgb(138, 128, 128)
 
 }
