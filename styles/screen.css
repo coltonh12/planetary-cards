@@ -48,3 +48,8 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+:root {
+    --colts-color: blue;
+    --Colts-baseline-gride: 8px;
+}
