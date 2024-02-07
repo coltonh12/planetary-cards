@@ -54,6 +54,9 @@ h1 {
     font-weight: bold; 
     color: #f7f6f6; 
     margin-bottom: 20px; 
+    position: absolute; 
+  top: 50%; 
+  left: 0;
     
   }
   
