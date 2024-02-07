@@ -59,4 +59,6 @@ h1 {
   left: 0;
 }
  
-  
+  main {
+    display: grid;
+  }
