@@ -53,6 +53,7 @@ img.about {
 .grid-container { 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-rows: 200px;
    color: #2D3142;
 }
 
