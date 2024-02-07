@@ -51,5 +51,6 @@ img.about {
 
 main { 
     display: grid;
-    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-columns: 200px 200px 200px 200px;
+    background: rgba(red, green, blue, alpha)
 }
