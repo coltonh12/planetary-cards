@@ -34,11 +34,9 @@ nav ul li a {
 }
 
 h1 {
-    font-size: 2em;
-    letter-spacing: -2px;
-    position: relative;
-    top: 10%; 
-    left: 20px;
+        font-size: 2em;
+        letter-spacing: -2px;
+        margin-left: 20px; 
 }
 
 h1 strong {
