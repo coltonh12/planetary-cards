@@ -99,26 +99,7 @@ width: 150px;
     margin-top: 5px; 
   }
   
-  .sun-circle {
-    position: relative; /* Change position to relative */
-    width: 150px;
-    height: 150px;
-    background-color: grey;
-    border-radius: 50%;
-    margin: 0 auto; /* Center the circle horizontally */
-    margin-top: 20px; /* Add margin to position the circle below the text */
-}
-
-.sun-box {
-    background: rgb(184, 184, 184);
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
-    justify-content: center; /* Center the content vertically */
-    grid-column: span 2;
-    height: 450px;
-}
+  
 
   
   
