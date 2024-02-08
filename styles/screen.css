@@ -69,3 +69,12 @@ border-radius: 10px;
 height: 200px;
 width: 150px;
 }
+
+.container-grid {
+    display: grid;
+    
+}
+
+.sun-box {
+    background: rgb(138, 128, 128);
+}
