@@ -106,6 +106,14 @@ width: 150px;
     margin-top: 5px; 
   }
   
- 
+  .sun-circle {
+    position: absolute;
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Adjust size as needed */
+    background-color: #ffcc00; /* Yellow color for the Sun circle */
+    border-radius: 50%; /* Make it a circle */
+    margin: 10px auto; /* Center the circle horizontally with some margin */
+  }
+  
   
   
