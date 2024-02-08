@@ -62,3 +62,9 @@ img.about {
     background: rgb(138, 128, 128)
 
 }
+
+.grid-container .planet-box {
+padding: 20px;
+border-radius: 10px;
+
+}
