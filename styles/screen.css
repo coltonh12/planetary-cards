@@ -114,10 +114,13 @@ width: 150px;
 }
 
 .sun-box {
-    background: rgb(184, 184, 184);
-    text-align: center;
-    padding: 20px; /* Add padding for spacing */
+    background: rgb(138, 128, 128);
+    padding: 20px; /* Example padding */
+    text-align: center; /* Example text alignment */
+    border-radius: 10px; /* Example rounded corners */
+    height: 100px; /* Set the same height as the other boxes */
 }
+
 
 
   
