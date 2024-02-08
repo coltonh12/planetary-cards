@@ -99,3 +99,10 @@ width: 150px;
     background-color: #3d3d3dee;
     border-radius: 50%;
 }
+
+.planet-info {
+    font-size: 14px;
+    color: #666;
+    margin-top: 5px; 
+  }
+  
