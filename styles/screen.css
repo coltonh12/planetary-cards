@@ -99,7 +99,26 @@ width: 150px;
     margin-top: 5px; 
   }
   
-  
+  .sun-box {
+    background: rgb(184, 184, 184);
+    text-align: center;
+    padding: 20px; /* Add padding for spacing */
+}
+
+.sun-circle {
+    width: 150px;
+    height: 150px;
+    background-color: grey;
+    border-radius: 50%;
+    margin: 0 auto 20px; /* Center the circle horizontally with margin for spacing */
+}
+
+.sun-box {
+    background: rgb(184, 184, 184);
+    text-align: center;
+    padding: 20px; /* Add padding for spacing */
+}
+
 
   
   
