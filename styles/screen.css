@@ -82,13 +82,13 @@ width: 150px;
 
 
 .sun-circle {
-    position: absolute; /* Position the circle relative to the sun box */
-    top: 50%; /* Center vertically */
-    left: 50%; /* Center horizontally */
-    transform: translate(-50%, -50%); /* Center the circle precisely */
-    width: 100px;
-    height: 100px;
-    background-color: yellow; /* Adjust color as needed */
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    width: 200px;
+    height: 200px;
+    background-color: #3d3d3dee;
     border-radius: 50%;
 }
 
