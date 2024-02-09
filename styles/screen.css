@@ -118,7 +118,8 @@ width: 150px;
     padding: 20px; /* Example padding */
     text-align: center; /* Example text alignment */
     border-radius: 10px; /* Example rounded corners */
-    height: 500px; /* Set the same height as the other boxes */
+    height: 450px; /* Set the same height as the other boxes */
+    width: 200px;
 }
 
 
