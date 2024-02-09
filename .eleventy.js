@@ -4,9 +4,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("styles");
 };
 
-let coltonstring = 'test'
-let coltonnumber = 1234;
-function alertcolton() {
-  alert(coltonstring);
-}
+
+
 
