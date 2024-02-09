@@ -113,15 +113,15 @@ width: 150px;
 
 
 
-.sun-box {
+  .sun-box {
+    position: relative; /* Ensure relative positioning */
     background: rgb(138, 128, 128);
-    padding: 20px; 
-    text-align: center; 
-    border-radius: 10px; 
-    height: 450px;  
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    height: 450px;
     width: 400px;
 }
-
 
 
   
