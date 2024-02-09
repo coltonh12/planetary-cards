@@ -80,7 +80,14 @@ width: 150px;
     color: #212431;
 }
 
-
+.sun-circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #2D3142;
+}
 
 .planet-circle {
     position: absolute;
