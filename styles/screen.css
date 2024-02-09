@@ -111,11 +111,11 @@ width: 150px;
 
   .sun-info {
     position: absolute;
-    bottom: 10px; /* Adjust this value to your preference */
+    bottom: 10px; 
     left: 50%;
-    transform: translateX(-50%);
-    font-size: 14px; /* Adjust font size as needed */
-    color: #666; /* Adjust color as needed */
+    transform: translateX(-40%);
+    font-size: 20px; 
+    color: #666; 
 }
 
   
