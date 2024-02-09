@@ -7,6 +7,6 @@ module.exports = function(eleventyConfig) {
 let coltonstring = 'test'
 let coltonnumber = 1234;
 function alertcolton() {
-  alert(coltonnumber);
+  alert(coltonstring);
 }
 
