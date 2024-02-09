@@ -110,7 +110,7 @@ width: 150px;
     height: 150px;
     background-color: grey;
     border-radius: 50%;
-    margin: 0 auto 20px; /* Center the circle horizontally with margin for spacing */
+    margin: 0 auto 20px; 
 }
 
 .sun-box {
